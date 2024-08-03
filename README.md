@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Bhattacharya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab902&label=Profile%20views&color=0e75b6&style=flat" alt="arnab902" /> </p>
